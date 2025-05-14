@@ -1,0 +1,8 @@
+installatorConfig:
+  allowLowerVersion: false
+  failOnRequiredVersionViolation: true
+  lintRulesVersion: 0.5.1
+  Version: 1.27.1
+repositories:
+- name: whitelogix
+  url: https://registry.whitelogix.net/service/rest/repository/browse/avaloq-maven/

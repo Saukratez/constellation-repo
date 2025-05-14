@@ -1,0 +1,9 @@
+specification-version: "6.0"
+Name: Whitelogix_AWS
+products:
+  - group: com.avaloq
+    artifactId: aws
+    components:
+      - group: com.avaloq
+        artifactId: avaloq-aws
+        Version: 2.52.1
